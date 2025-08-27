@@ -1,0 +1,29 @@
+# Node
+node_modules
+.env
+dist
+build
+.next
+coverage
+
+# Python
+__pycache__/
+.venv/
+.env.*
+*.pyc
+
+# Java
+target/
+.idea/
+.classpath
+.project
+.settings/
+
+# Django
+db.sqlite3
+staticfiles/
+
+# Misc
+.DS_Store
+*.log
+.pytest_cache/
